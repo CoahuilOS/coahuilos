@@ -1,0 +1,14 @@
+Sitio oficial: https://coahuilos.github.io/
+
+Repositorios oficiales: https://github.com/CoahuilOS
+
+Creador: Cesar G. "RedBlend" Morin Corona
+
+Inicie este proyecto por aburrimiento, no espero que el proyecto le
+valla a ir bien ya que igualmente ese no es mi objetivo, mi objetivo
+es crear un sistema operativo para experimentar, esta bien si quieres
+probarlo, pero igualmente no es como para uso diario (V0.0).
+
+Si quieres algo parecido a esto les recomiendo una distribucion de
+Linux como Arch aunque ten en cuenta que no va a estar en español
+pero en ingles.

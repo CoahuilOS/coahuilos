@@ -1,0 +1,4 @@
+F1 -- Abrir el menu de ayuda
+F2 -- Reinicia el sistema
+F3 -- Abre el menu de utilidades
+F4 -- Abre el menu de CpuStat
