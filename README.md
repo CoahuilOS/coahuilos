@@ -1,2 +1,5 @@
 # coahuilos
-La kernel del sistema y el codigo fuente
+La kernel del sistema y el codígo fuente del sistema de CoahuilOS.
+
+Puedes quemar un disco DVD o usar [Ventoy para usarlo en una USB](https://www.ventoy.net/en/index.html) o simplemente emular el sistema desde [Virtualbox](https://www.virtualbox.org/) o otros.
+Recomiendo revisar la licencia anter de hacerle algo a este proyecto para sabe r que es lo que puedes y lo que no puedes hacer con esto
