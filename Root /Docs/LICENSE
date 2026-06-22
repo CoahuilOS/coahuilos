@@ -1,10 +1,11 @@
-AneoEngine License v1.0
+AneoEngine License V1.1
 
-Copyright (c) 2026 CoahuilOS
-Project: https://github.com/CoahuilOS
+28 May, 2026
+Copyright (C) 2026 Rocco Himel, All Rights Reserved.
+Project: https://roccohimel.github.io/AneoEngine/
 
 Permission is hereby granted to any person obtaining a copy
-of CoahuilOS and its source code files (the "Software"),
+of AneoEngine and its source code files (the "Software"),
 to use, study, modify, and distribute the Software,
 subject to the following conditions:
 
@@ -18,7 +19,7 @@ subject to the following conditions:
 3. Any redistributed version of the Software, modified
    or unmodified, must include accessible source code.
 
-4. The name "CoahuilOS" may not be used to falsely
+4. The name "AneoEngine" may not be used to falsely
    represent modified versions as official releases.
 
 5. The Software is provided for educational,
@@ -36,5 +37,28 @@ subject to the following conditions:
    LIABILITY ARISING FROM THE SOFTWARE OR THE USE OF
    THE SOFTWARE.
 
-8. You shall NOT publish or modify ANY Software in the
-   /docs folder of this project.
+8. The contents of the /docs directory are excluded
+   from this license. No permission is granted to
+   copy, modify, distribute, mirror, republish, or
+   otherwise redistribute any files contained within
+   the /docs directory without prior written
+   permission from the copyright holder.
+
+9. You shall NOT call or classify your copy of the 
+   Software as official.
+
+10. Any redistributed version of the Software must
+    remain licensed under the AneoEngine License
+    version under which it was received, or a later
+    official version of the AneoEngine License.
+
+11. You shall not intentionally submit, promote,
+    request indexing of, or otherwise cause any
+    redistributed or modified copy of the Software
+    to be indexed by search engines. Only the
+    official AneoEngine project may be intentionally
+    indexed.
+
+12. You shall not redistribute the Software under
+    any license other than the AneoEngine License
+    V1.1.
