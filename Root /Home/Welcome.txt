@@ -1,2 +1,2 @@
 
-Para iniciar con CoahuiOS, precione F1.
+Para empezar con CoahuiOS, precione F1.
